@@ -1,5 +1,4 @@
 ### Sophomore at Shanghai Jiaotong University. Currently, I, `Formal Baka`, am learning `Coq`. Want to do something cool
-### Have `(maybe)` a good GPA.
 ### Twitter: `@MisakaCenter`
 ### Bilibili: `@MisakaCenter` or `@御坂总部` (old account)
 ### Telegram:`@MisakaCenter`
