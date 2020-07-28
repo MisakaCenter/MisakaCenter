@@ -1,4 +1,4 @@
-<p align="center">Have found the path</p>
+<p align="center">BIG FOOL</p>
 <p align="center">
   <a href="https://twitter.com/misakacenter"><img src="https://img.shields.io/twitter/follow/misakacenter.svg?style=social" alt="Twitter"></a>
   <a href="https://github.com/misakacenter?tab=followers"><img src="https://img.shields.io/github/followers/misakacenter.svg?label=Follow%20@misakacenter&style=social" alt="GitHub"></a>
