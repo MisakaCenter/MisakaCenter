@@ -1,4 +1,4 @@
-- Sophomore at Shanghai Jiaotong University
+- Sophomore at <a href="http://en.sjtu.edu.cn" target="_blank">SJTU</a>
 - Interest in PLT
 - Find me on: 
 
